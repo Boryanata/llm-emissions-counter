@@ -20,7 +20,7 @@ This interactive web application calculates the environmental impact of using di
 
 ## 🎯 Supported Models
 
-- **o3** (Anthropic)
+- **o3** (OpenAI)
 - **GPT-4o** (OpenAI)
 - **Claude-3.7** (Anthropic)
 - **DeepSeek-R1** (DeepSeek)
